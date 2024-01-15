@@ -8,7 +8,6 @@
   <br>
 </div>
 <br>
-## Overview
 The Live Weather Application is a Python-based weather application that provides real-time weather information for a given city. The application utilizes web scraping techniques with the Beautiful Soup library to extract weather data from Google Search results. The graphical user interface (GUI) is built using the tkinter library, and the application also features weather icons to represent the current weather condition.
 
 ## Technologies Used
